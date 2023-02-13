@@ -3,3 +3,5 @@ Omid shoes online shoe store (first phase) In the first phase of the Omid Show o
 
 online link 
 https://www.figma.com/file/yOgfd3C2KldxLIr3Z9iplf/Omid-Shoes-Design?node-id=0%3A1&t=sfL76uLd43CiNG52-1
+
+use figma
